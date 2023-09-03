@@ -6,5 +6,5 @@ Three different display positions (or none) can be selected.
 
 ![displayposition](https://github.com/ponkotsu1/Voron-Mods/blob/main/V0%20Launchpad%20Skirt/Images/D.png)
 
-##BOM
+## BOM
 48~52 2x10Selftap Screw
