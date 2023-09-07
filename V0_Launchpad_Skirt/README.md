@@ -1,5 +1,5 @@
 # V0 Launchpad Skirt
-![top](https://github.com/ponkotsu1/Voron-Mods/blob/main/V0_Launchpad_Skirt/Images/top.jpg)
+![top](Images/top.jpg)
 
 This is a skirt restyling mod.
 Three different display positions (or none) can be selected.
