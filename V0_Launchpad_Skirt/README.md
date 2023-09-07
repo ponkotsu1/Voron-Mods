@@ -4,7 +4,7 @@
 This is a skirt restyling mod.
 Three different display positions (or none) can be selected.
 
-![displayposition](https://github.com/ponkotsu1/Voron-Mods/blob/main/V0_Launchpad_Skirt/Images/displayposition.png)
+![displayposition](Images/displayposition.png)
 
 Can be installed on V0.0~V0.2r1
 (V0.2r1 filament sensor is not supported. Can be installed without bottom panel.)
